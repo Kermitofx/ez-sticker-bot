@@ -3,13 +3,13 @@
   "users": {},
   "default_user": {
     "icon_warned": false
-    "lang": "en",
+    "lang": "pt",
     "opt_in": true,
     "uses": 0
   },
   "times_shared": 0,
-  "admins": [],
-  "token": "TOKEN_FROM_BOTFATHER",
+  "admins": [684842099],
+  "token": "956323132:AAHMrinw-JntQCWnEbZno9zqx6AVdD3z0vE",
   "langs_auto_set": 0,
   "override_opt_out": false,
   "send_opt_out_message": true,
